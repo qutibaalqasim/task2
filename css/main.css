@@ -1,0 +1,76 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+img{
+    width:200px;
+}
+
+h1{
+   
+    margin-top: 20px;
+    margin-left: 25px;
+}
+
+svg{
+    width:20px;
+    height:20px;
+}
+
+/*span{
+    margin-bottom: 50px;
+}*/
+
+
+.our-products{
+   margin-left: 250px;
+}
+
+.product-one{
+    width: 220px;
+    height:350px;
+    text-align: center;
+    margin-left:25px;
+    margin-top: 30px;
+    border: solid darkgray 2px ;
+    float:left
+}
+
+.new-price{
+    font-size: 32px;
+    font-weight: 900;
+    color: green;
+}
+
+.old-price{
+    font-size: 16px;
+    font-weight: 100;
+    color:red;
+}
+
+
+.clearfix{
+    clear:both;
+}
+
+.product-two{
+    width: 220px;
+    height:350px;
+    text-align: center;
+    margin-left:25px;
+    margin-top: 25px;
+    border: solid darkgray 2px ;
+    float:left
+}
+
+.add-button{
+    text-align: center;
+    width: 120px;
+    height: 27px;
+    margin-top: 100px;
+    background-color: lightsteelblue;
+}
+
+
+
